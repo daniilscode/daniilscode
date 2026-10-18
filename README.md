@@ -9,17 +9,11 @@
   </a>
 </p>
 
----
 
-### 👨‍💻 About Me
 
 Java Developer with hands-on experience in building and optimizing distributed systems. Experienced in service profiling, SQL query optimization, and designing event-driven architectures. I prioritize code reliability and cover my solutions with thorough integration tests. 
 
 Constantly growing as a software engineer, and in my free time, I stay active through sports. Currently a **4th-year Cybersecurity student**, actively seeking an **Internship / Junior Java Developer** position.
-
----
-
-### 🛠 Tech Stack
 
 ### 🛠 Tech Stack
 
@@ -39,7 +33,6 @@ Constantly growing as a software engineer, and in my free time, I stay active th
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>
 </div>
 
----
 
 ### 📊 GitHub Stats
 
@@ -49,7 +42,6 @@ Constantly growing as a software engineer, and in my free time, I stay active th
   </a>
 </p>
 
----
 
 ### 📬 Get in Touch
 
