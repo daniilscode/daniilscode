@@ -1,7 +1,5 @@
-<img width="1650" height="229" alt="banner2" src="https://github.com/user-attachments/assets/3327edbd-10ee-4588-a057-6d1bbfec6d18" />
-
 <p align="center">
-  <img width="1650" height="232" alt="banner" src="https://github.com/user-attachments/assets/4b2fc53e-2028-4517-9123-e4abbe004804" />
+  <img width="1650" height="229" alt="banner2" src="https://github.com/user-attachments/assets/3327edbd-10ee-4588-a057-6d1bbfec6d18" />
 </p>
 
 <p align="center">
