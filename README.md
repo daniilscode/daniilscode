@@ -1,6 +1,6 @@
 <!-- 1. Banner at the very top -->
 <p align="center">
-  <img width="1500" height="232" alt="banner" src="https://github.com/user-attachments/assets/4b2fc53e-2028-4517-9123-e4abbe004804" />
+  <img width="1600" height="232" alt="banner" src="https://github.com/user-attachments/assets/4b2fc53e-2028-4517-9123-e4abbe004804" />
 </p>
 
 <!-- 2. Animated typing greeting with green Spring accent -->
@@ -14,10 +14,9 @@
 
 ### 👨‍💻 About Me
 
-- ☕ **Backend Development & Architecture:** I build scalable, fault-tolerant backend services using **Java, Kotlin, and Spring Boot**, focusing on clean modular architecture, SOLID principles, and maintainability.
-- ⚡ **Data Engineering & Concurrency:** Capable of designing complex relational schemas (PostgreSQL), diagnosing memory bottlenecks (OOM profiling), tuning slow SQL queries, and handling race conditions with distributed locks and caching.
-- 📨 **Asynchronous Messaging:** Confident in designing event-driven pipelines using **Apache Kafka (with Avro schemas)** and **RabbitMQ**, as well as implementing resilient fallback and cache self-healing mechanisms.
-- 🎯 **Goals & Ambitions:** Aiming to join an engineering team as an **Intern / Junior Backend Developer** to tackle real-world distributed system challenges, master highload architecture, and deliver reliable, well-tested code (**Testcontainers, JUnit 5**).
+Java Developer with hands-on experience in building and optimizing distributed systems. Experienced in service profiling, SQL query optimization, and designing event-driven architectures. I prioritize code reliability and cover my solutions with thorough integration tests. 
+
+Constantly growing as a software engineer, and in my free time, I stay active through sports. Currently a **4th-year Cybersecurity student**, actively seeking an **Internship / Junior Java Developer** position.
 
 ---
 
@@ -85,7 +84,11 @@
 
 ### 📊 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=daniilscode&theme=shadow-green&short_numbers=true" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=daniilscode&theme=shadow-green&short_numbers=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
