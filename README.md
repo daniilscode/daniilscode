@@ -4,13 +4,14 @@
 </h1>
 
 <p align="center">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F89820&center=true&vCenter=true&width=450&lines=Java+Backend+Developer;Spring+Boot+%26+PostgreSQL;Focused+on+Clean+Code+%26+ACID;Seeking+Spring+Internship" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img width="1672" height="941" alt="Рукавицы создают Java-символ" src="https://github.com/user-attachments/assets/eb2d0802-8fc6-431b-97e7-b5eb5a9d52b0" />
+  <img width="836" height="232" alt="banner" src="https://github.com/user-attachments/assets/4b2fc53e-2028-4517-9123-e4abbe004804" />
 </p>
 
 ---
