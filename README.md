@@ -11,7 +11,7 @@
 
 <!-- Narrowed down banner image -->
 <p align="center">
-  <img width="500" alt="banner" src="https://github.com/user-attachments/assets/4b2fc53e-2028-4517-9123-e4abbe004804" />
+  <img width="500" height="232" alt="banner" src="https://github.com/user-attachments/assets/4b2fc53e-2028-4517-9123-e4abbe004804" />
 </p>
 
 ---
