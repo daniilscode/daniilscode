@@ -1,9 +1,8 @@
-<!-- 1. Banner at the very top -->
+
 <p align="center">
-  <img width="1600" height="232" alt="banner" src="https://github.com/user-attachments/assets/4b2fc53e-2028-4517-9123-e4abbe004804" />
+  <img width="1650" height="232" alt="banner" src="https://github.com/user-attachments/assets/4b2fc53e-2028-4517-9123-e4abbe004804" />
 </p>
 
-<!-- 2. Animated typing greeting with green Spring accent -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=57B956&center=true&vCenter=true&width=550&lines=Hey+There!+I'm+Daniil+%F0%9F%91%8B;Java+%2F+Backend+Developer;Highload+%26+Event-Driven+Systems;Open+to+Internship+%2F+Junior+Roles" alt="Typing SVG" />
@@ -26,7 +25,6 @@ Constantly growing as a software engineer, and in my free time, I stay active th
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
