@@ -29,62 +29,57 @@
 
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="38" height="38" alt="Java" title="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" height="36" alt="Java" title="Java" />
+  </a>
+  &nbsp;
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin" title="Kotlin" />
   </a>
   &nbsp;
   <a href="https://spring.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="38" height="38" alt="Spring Boot" title="Spring Boot" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot" />
   </a>
   &nbsp;
   <a href="https://hibernate.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="38" height="38" alt="Hibernate" title="Hibernate" />
-  </a>
-  &nbsp;
-  <a href="https://junit.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="38" height="38" alt="JUnit 5" title="JUnit 5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="36" height="36" alt="Hibernate" title="Hibernate" />
   </a>
   &nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" title="PostgreSQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />
   </a>
   &nbsp;
   <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="38" height="38" alt="Redis" title="Redis" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" title="Redis" />
   </a>
   &nbsp;
   <a href="https://kafka.apache.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="38" height="38" alt="Apache Kafka" title="Apache Kafka" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="36" height="36" alt="Apache Kafka" title="Apache Kafka" />
+  </a>
+  &nbsp;
+  <a href="https://junit.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="36" height="36" alt="JUnit 5" title="JUnit 5" />
   </a>
   &nbsp;
   <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" title="Docker" />
-  </a>
-  &nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" height="38" alt="Git" title="Git" />
-  </a>
-  &nbsp;
-  <a href="https://maven.apache.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="38" height="38" alt="Maven" title="Maven" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" title="Docker" />
   </a>
   &nbsp;
   <a href="https://gradle.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="38" height="38" alt="Gradle" title="Gradle" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="36" height="36" alt="Gradle" title="Gradle" />
   </a>
   &nbsp;
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="38" height="38" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />
   </a>
   &nbsp;
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="38" height="38" alt="Linux" title="Linux" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" title="Linux" />
   </a>
   &nbsp;
   <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="38" height="38" alt="Postman" title="Postman" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" title="Postman" />
   </a>
 </p>
-
 ---
 
 ### 📊 GitHub Stats
