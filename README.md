@@ -3,10 +3,10 @@
   <img width="1500" height="232" alt="banner" src="https://github.com/user-attachments/assets/4b2fc53e-2028-4517-9123-e4abbe004804" />
 </p>
 
-<!-- 2. Animated typing greeting right after banner -->
+<!-- 2. Animated typing greeting with green Spring accent -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F89820&center=true&vCenter=true&width=550&lines=Hey+There!+I'm+Daniil+%F0%9F%91%8B;Java+%2F+Kotlin+Backend+Developer;Axenix+Alum+%7C+Enterprise+Experience;Open+to+Internship+%2F+Junior+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=57B956&center=true&vCenter=true&width=550&lines=Hey+There!+I'm+Daniil+%F0%9F%91%8B;Java+%2F+Kotlin+Backend+Developer;Highload+%26+Event-Driven+Systems;Open+to+Internship+%2F+Junior+Roles" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,10 +14,10 @@
 
 ### 👨‍💻 About Me
 
-- ☕ **Commercial Enterprise Experience:** Backend Developer (Java & Kotlin) with **8 months of experience at Axenix** (formerly Accenture) working on high-load ticketing systems ("Stoloto").
-- ⚡ **Performance & Optimization:** Reduced critical API response times by **40% (800ms ➔ 300ms)** through SQL query tuning, database indexing, and Read-Ahead caching.
-- 🛠 **Highload & Reliability:** Eliminated critical **OutOfMemory (OOM)** exceptions by streaming heavy payloads via PostgreSQL Large Objects (LOB/OID), and built resilient self-healing caches backed by **Apache Kafka (Avro)**.
-- 🧪 **Testing & Quality Assurance:** Achieved and maintained **80% code coverage**; automated integration test environments using **Testcontainers** (PostgreSQL & Kafka), JUnit 5, and Mockito.
+- ☕ **Backend Development & Architecture:** I build scalable, fault-tolerant backend services using **Java, Kotlin, and Spring Boot**, focusing on clean modular architecture, SOLID principles, and maintainability.
+- ⚡ **Data Engineering & Concurrency:** Capable of designing complex relational schemas (PostgreSQL), diagnosing memory bottlenecks (OOM profiling), tuning slow SQL queries, and handling race conditions with distributed locks and caching.
+- 📨 **Asynchronous Messaging:** Confident in designing event-driven pipelines using **Apache Kafka (with Avro schemas)** and **RabbitMQ**, as well as implementing resilient fallback and cache self-healing mechanisms.
+- 🎯 **Goals & Ambitions:** Aiming to join an engineering team as an **Intern / Junior Backend Developer** to tackle real-world distributed system challenges, master highload architecture, and deliver reliable, well-tested code (**Testcontainers, JUnit 5**).
 
 ---
 
