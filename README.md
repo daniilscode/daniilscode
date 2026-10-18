@@ -1,27 +1,23 @@
-<h1 align="center">
-  Hi! I'm <a href="https://github.com/YOUR_GITHUB_USERNAME">Daniil</a> 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
-</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F89820&center=true&vCenter=true&width=450&lines=Java+Backend+Developer;Spring+Boot+%26+PostgreSQL;Focused+on+Clean+Code+%26+ACID;Seeking+Internship" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Narrowed down banner image -->
+<!-- 1. Banner at the very top -->
 <p align="center">
   <img width="1500" height="232" alt="banner" src="https://github.com/user-attachments/assets/4b2fc53e-2028-4517-9123-e4abbe004804" />
+</p>
+
+<!-- 2. Animated typing greeting right after banner -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F89820&center=true&vCenter=true&width=550&lines=Hey+There!+I'm+Daniil+%F0%9F%91%8B;Java+%2F+Kotlin+Backend+Developer;Axenix+Alum+%7C+Enterprise+Experience;Open+to+Internship+%2F+Junior+Roles" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- ☕ Backend developer specializing in **Java** (~8 months of hands-on and commercial experience).
-- 🎯 Deepening knowledge in **Spring Boot, concurrency, and relational database design**.
-- 🛠 Passionate about writing clean, maintainable code and testing it with **Testcontainers**.
-- 🚀 **Actively seeking an Internship / Junior Java Backend Developer position**.
+- ☕ **Commercial Enterprise Experience:** Backend Developer (Java & Kotlin) with **8 months of experience at Axenix** (formerly Accenture) working on high-load ticketing systems ("Stoloto").
+- ⚡ **Performance & Optimization:** Reduced critical API response times by **40% (800ms ➔ 300ms)** through SQL query tuning, database indexing, and Read-Ahead caching.
+- 🛠 **Highload & Reliability:** Eliminated critical **OutOfMemory (OOM)** exceptions by streaming heavy payloads via PostgreSQL Large Objects (LOB/OID), and built resilient self-healing caches backed by **Apache Kafka (Avro)**.
+- 🧪 **Testing & Quality Assurance:** Achieved and maintained **80% code coverage**; automated integration test environments using **Testcontainers** (PostgreSQL & Kafka), JUnit 5, and Mockito.
 
 ---
 
@@ -56,6 +52,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="36" height="36" alt="Apache Kafka" title="Apache Kafka" />
   </a>
   &nbsp;
+  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="36" height="36" alt="RabbitMQ" title="RabbitMQ" />
+  </a>
+  &nbsp;
   <a href="https://junit.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="36" height="36" alt="JUnit 5" title="JUnit 5" />
   </a>
@@ -80,6 +80,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" title="Postman" />
   </a>
 </p>
+
 ---
 
 ### 📊 GitHub Stats
