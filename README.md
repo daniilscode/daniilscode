@@ -55,6 +55,4 @@ Constantly growing as a software engineer, and in my free time, I stay active th
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,30:0f382c,70:1e6b47,100:57B956&height=120&section=footer" width="100%" alt="footer wave" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,25:134e35,65:28a745,100:57B956&height=120&section=footer" width="100%" />
