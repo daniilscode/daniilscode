@@ -15,7 +15,8 @@ Java Developer with hands-on experience in building and optimizing distributed s
 
 Constantly growing as a software engineer, and in my free time, I stay active through sports. Currently a **4th-year Cybersecurity student**, actively seeking an **Internship / Junior Java Developer** position.
 
-### 🛠 Tech Stack
+
+### Tech Stack
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -34,7 +35,8 @@ Constantly growing as a software engineer, and in my free time, I stay active th
 </div>
 
 
-### 📊 GitHub Stats
+
+### GitHub Stats
 
 <p align="center">
   <a href="https://git.io/streak-stats">
