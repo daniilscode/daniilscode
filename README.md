@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF"/>
+  <img width="1672" height="941" alt="Рукавицы создают Java-символ" src="https://github.com/user-attachments/assets/eb2d0802-8fc6-431b-97e7-b5eb5a9d52b0" />
 </p>
 
 ---
