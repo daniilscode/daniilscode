@@ -4,17 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/ersh0vvv" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@ersh0vvv-24A1DE?style=flat-square&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:daniil.ershovvv73@mail.ru">
-    <img src="https://img.shields.io/badge/Email-daniil.ershovvv73@mail.ru-57B956?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
-  </a>
-</p>
-
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=57B956&center=true&vCenter=true&width=550&lines=Hey+There!+I'm+Daniil+%F0%9F%91%8B;Java+%2F+Backend+Developer;Highload+%26+Event-Driven+Systems;Open+to+Internship+%2F+Junior+Roles" alt="Typing SVG" />
   </a>
