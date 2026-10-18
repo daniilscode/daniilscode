@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="https://media.giphy.com/media/LmN8OYiY4m0X85Qb0Z/giphy.gif" width="400" alt="Coding animation"/>
+</p>
 <!--
 **daniilscode/daniilscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
